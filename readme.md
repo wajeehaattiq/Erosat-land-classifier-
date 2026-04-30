@@ -114,4 +114,3 @@ This classifier can be used in real-world applications:
 Wajeeha Attiq  
 GitHub: github.com/wajeehaattiq  
 Email: wajeehaattiq7@gmail.com  
-Portfolio: https://wajeehaattiq.github.io
